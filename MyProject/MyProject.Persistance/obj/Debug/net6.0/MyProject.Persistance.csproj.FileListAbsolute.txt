@@ -1,0 +1,12 @@
+C:\Users\AsusIran\source\repos\intershipproject\MyProject\MyProject.Persistance\bin\Debug\net6.0\MyProject.Persistance.deps.json
+C:\Users\AsusIran\source\repos\intershipproject\MyProject\MyProject.Persistance\bin\Debug\net6.0\MyProject.Persistance.dll
+C:\Users\AsusIran\source\repos\intershipproject\MyProject\MyProject.Persistance\bin\Debug\net6.0\MyProject.Persistance.pdb
+C:\Users\AsusIran\source\repos\intershipproject\MyProject\MyProject.Persistance\obj\Debug\net6.0\MyProject.Persistance.csproj.AssemblyReference.cache
+C:\Users\AsusIran\source\repos\intershipproject\MyProject\MyProject.Persistance\obj\Debug\net6.0\MyProject.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AsusIran\source\repos\intershipproject\MyProject\MyProject.Persistance\obj\Debug\net6.0\MyProject.Persistance.AssemblyInfoInputs.cache
+C:\Users\AsusIran\source\repos\intershipproject\MyProject\MyProject.Persistance\obj\Debug\net6.0\MyProject.Persistance.AssemblyInfo.cs
+C:\Users\AsusIran\source\repos\intershipproject\MyProject\MyProject.Persistance\obj\Debug\net6.0\MyProject.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\AsusIran\source\repos\intershipproject\MyProject\MyProject.Persistance\obj\Debug\net6.0\MyProject.Persistance.dll
+C:\Users\AsusIran\source\repos\intershipproject\MyProject\MyProject.Persistance\obj\Debug\net6.0\refint\MyProject.Persistance.dll
+C:\Users\AsusIran\source\repos\intershipproject\MyProject\MyProject.Persistance\obj\Debug\net6.0\MyProject.Persistance.pdb
+C:\Users\AsusIran\source\repos\intershipproject\MyProject\MyProject.Persistance\obj\Debug\net6.0\ref\MyProject.Persistance.dll

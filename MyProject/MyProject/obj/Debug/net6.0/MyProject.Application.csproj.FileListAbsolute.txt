@@ -1,0 +1,17 @@
+C:\Users\AsusIran\source\repos\intershipproject\MyProject\MyProject\bin\Debug\net6.0\MyProject.Application.deps.json
+C:\Users\AsusIran\source\repos\intershipproject\MyProject\MyProject\bin\Debug\net6.0\MyProject.Application.runtimeconfig.json
+C:\Users\AsusIran\source\repos\intershipproject\MyProject\MyProject\bin\Debug\net6.0\MyProject.Application.dll
+C:\Users\AsusIran\source\repos\intershipproject\MyProject\MyProject\bin\Debug\net6.0\MyProject.Application.pdb
+C:\Users\AsusIran\source\repos\intershipproject\MyProject\MyProject\bin\Debug\net6.0\MyProject.Domain.dll
+C:\Users\AsusIran\source\repos\intershipproject\MyProject\MyProject\bin\Debug\net6.0\MyProject.Domain.pdb
+C:\Users\AsusIran\source\repos\intershipproject\MyProject\MyProject\obj\Debug\net6.0\MyProject.Application.csproj.AssemblyReference.cache
+C:\Users\AsusIran\source\repos\intershipproject\MyProject\MyProject\obj\Debug\net6.0\MyProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AsusIran\source\repos\intershipproject\MyProject\MyProject\obj\Debug\net6.0\MyProject.Application.AssemblyInfoInputs.cache
+C:\Users\AsusIran\source\repos\intershipproject\MyProject\MyProject\obj\Debug\net6.0\MyProject.Application.AssemblyInfo.cs
+C:\Users\AsusIran\source\repos\intershipproject\MyProject\MyProject\obj\Debug\net6.0\MyProject.Application.csproj.CoreCompileInputs.cache
+C:\Users\AsusIran\source\repos\intershipproject\MyProject\MyProject\obj\Debug\net6.0\MyProject.Application.csproj.CopyComplete
+C:\Users\AsusIran\source\repos\intershipproject\MyProject\MyProject\obj\Debug\net6.0\MyProject.Application.dll
+C:\Users\AsusIran\source\repos\intershipproject\MyProject\MyProject\obj\Debug\net6.0\refint\MyProject.Application.dll
+C:\Users\AsusIran\source\repos\intershipproject\MyProject\MyProject\obj\Debug\net6.0\MyProject.Application.pdb
+C:\Users\AsusIran\source\repos\intershipproject\MyProject\MyProject\obj\Debug\net6.0\MyProject.Application.genruntimeconfig.cache
+C:\Users\AsusIran\source\repos\intershipproject\MyProject\MyProject\obj\Debug\net6.0\ref\MyProject.Application.dll
