@@ -12,7 +12,8 @@
           "Microsoft.EntityFrameworkCore.Design": "7.0.9",
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.9",
           "Microsoft.EntityFrameworkCore.Tools": "7.0.9",
-          "MyProject.Domain": "1.0.0"
+          "MyProject.Domain": "1.0.0",
+          "MyProject.Infrastrucure": "1.0.0"
         },
         "runtime": {
           "MyProject.Application.dll": {}
@@ -705,6 +706,15 @@
         "runtime": {
           "MyProject.Domain.dll": {}
         }
+      },
+      "MyProject.Infrastrucure/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.9",
+          "MyProject.Domain": "1.0.0"
+        },
+        "runtime": {
+          "MyProject.Infrastrucure.dll": {}
+        }
       }
     }
   },
@@ -1191,6 +1201,11 @@
       "hashPath": "system.windows.extensions.5.0.0.nupkg.sha512"
     },
     "MyProject.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyProject.Infrastrucure/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

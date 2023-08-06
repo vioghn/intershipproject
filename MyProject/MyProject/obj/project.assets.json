@@ -1165,6 +1165,20 @@
         "runtime": {
           "bin/placeholder/MyProject.Domain.dll": {}
         }
+      },
+      "MyProject.Infrastrucure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.9",
+          "MyProject.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MyProject.Infrastrucure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MyProject.Infrastrucure.dll": {}
+        }
       }
     }
   },
@@ -3515,6 +3529,11 @@
       "type": "project",
       "path": "../MyProject.Domain/MyProject.Domain.csproj",
       "msbuildProject": "../MyProject.Domain/MyProject.Domain.csproj"
+    },
+    "MyProject.Infrastrucure/1.0.0": {
+      "type": "project",
+      "path": "../MyProject.Infrastrucure/MyProject.Infrastrucure.csproj",
+      "msbuildProject": "../MyProject.Infrastrucure/MyProject.Infrastrucure.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -3523,7 +3542,8 @@
       "Microsoft.EntityFrameworkCore.Design >= 7.0.9",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.9",
       "Microsoft.EntityFrameworkCore.Tools >= 7.0.9",
-      "MyProject.Domain >= 1.0.0"
+      "MyProject.Domain >= 1.0.0",
+      "MyProject.Infrastrucure >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -3555,6 +3575,9 @@
           "projectReferences": {
             "C:\\Users\\AsusIran\\source\\repos\\intershipproject\\MyProject\\MyProject.Domain\\MyProject.Domain.csproj": {
               "projectPath": "C:\\Users\\AsusIran\\source\\repos\\intershipproject\\MyProject\\MyProject.Domain\\MyProject.Domain.csproj"
+            },
+            "C:\\Users\\AsusIran\\source\\repos\\intershipproject\\MyProject\\MyProject.Infrastrucure\\MyProject.Infrastrucure.csproj": {
+              "projectPath": "C:\\Users\\AsusIran\\source\\repos\\intershipproject\\MyProject\\MyProject.Infrastrucure\\MyProject.Infrastrucure.csproj"
             }
           }
         }

@@ -1,4 +1,5 @@
-﻿using MyProject.Infrastructure.Data.Entities;
+﻿using MyProject.Domain.Entities;
+using MyProject.Infrastrucure.Data.Configs;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Design;
 using System;

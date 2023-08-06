@@ -14,9 +14,9 @@ namespace MyProject.Application.Contracts.Repository
         public Address GetById(int Id);
         public Address GetByCity(string City);
         public List<Address> GetAll();
-        public void Add (Address address);
-        public void Update (Address address);
-        public void Delete (Address address);
+        public string Add (Address address);
+        public string Update (Address address);
+        public string Delete (Address address);
 
 
     }

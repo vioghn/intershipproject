@@ -1155,6 +1155,16 @@
             "rid": "win"
           }
         }
+      },
+      "MyProject.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/MyProject.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MyProject.Domain.dll": {}
+        }
       }
     }
   },
@@ -3500,13 +3510,19 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "MyProject.Domain/1.0.0": {
+      "type": "project",
+      "path": "../MyProject.Domain/MyProject.Domain.csproj",
+      "msbuildProject": "../MyProject.Domain/MyProject.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "Microsoft.EntityFrameworkCore.Design >= 7.0.9",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.9",
-      "Microsoft.EntityFrameworkCore.Tools >= 7.0.9"
+      "Microsoft.EntityFrameworkCore.Tools >= 7.0.9",
+      "MyProject.Domain >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -3535,7 +3551,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\AsusIran\\source\\repos\\intershipproject\\MyProject\\MyProject.Domain\\MyProject.Domain.csproj": {
+              "projectPath": "C:\\Users\\AsusIran\\source\\repos\\intershipproject\\MyProject\\MyProject.Domain\\MyProject.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

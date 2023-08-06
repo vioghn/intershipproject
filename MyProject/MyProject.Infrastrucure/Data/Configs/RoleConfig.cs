@@ -5,17 +5,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using MyProject.Domain.Entities; 
 
-namespace MyProject.Infrastructure.Data.Entities
+namespace MyProject.Infrastrucure.Data.Configs
 {
-    public class Role
-    {
-        public int RoleId { get; set; }
-        public string Name { get; set; }
-        public string Description { get; set; }
-        public IEnumerable<User> Users { get; set; }
-    }
-
     public class RoleConfiguraion : IEntityTypeConfiguration<Role>
     {
         public void Configure(EntityTypeBuilder<Role> builder)

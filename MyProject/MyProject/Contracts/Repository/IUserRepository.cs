@@ -16,9 +16,9 @@ namespace MyProject.Application.Contracts.Repository
         public User GetByEmail(string email);
         public List<User> GetLatests(int count);// tell the 10 recently useres which are added to phonebook 
         public List<User> GetFavoritesRole(int count); //which role has the most users-adding in the last month 
-        public void Update(int ID);
-        public void Delete(int ID);
-        public void Add(User user);
+        public string Update(User user);
+        public string Delete(User user);
+        public string Add(User user);
 
     }
 }
