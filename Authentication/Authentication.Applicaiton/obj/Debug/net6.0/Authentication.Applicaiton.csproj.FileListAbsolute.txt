@@ -1,0 +1,14 @@
+D:\st-internship\Authentication\Authentication.Applicaiton\bin\Debug\net6.0\Authentication.Applicaiton.deps.json
+D:\st-internship\Authentication\Authentication.Applicaiton\bin\Debug\net6.0\Authentication.Applicaiton.dll
+D:\st-internship\Authentication\Authentication.Applicaiton\bin\Debug\net6.0\Authentication.Applicaiton.pdb
+D:\st-internship\Authentication\Authentication.Applicaiton\obj\Debug\net6.0\Authentication.Applicaiton.csproj.AssemblyReference.cache
+D:\st-internship\Authentication\Authentication.Applicaiton\obj\Debug\net6.0\Authentication.Applicaiton.GeneratedMSBuildEditorConfig.editorconfig
+D:\st-internship\Authentication\Authentication.Applicaiton\obj\Debug\net6.0\Authentication.Applicaiton.AssemblyInfoInputs.cache
+D:\st-internship\Authentication\Authentication.Applicaiton\obj\Debug\net6.0\Authentication.Applicaiton.AssemblyInfo.cs
+D:\st-internship\Authentication\Authentication.Applicaiton\obj\Debug\net6.0\Authentication.Applicaiton.csproj.CoreCompileInputs.cache
+D:\st-internship\Authentication\Authentication.Applicaiton\obj\Debug\net6.0\Authentication.Applicaiton.dll
+D:\st-internship\Authentication\Authentication.Applicaiton\obj\Debug\net6.0\refint\Authentication.Applicaiton.dll
+D:\st-internship\Authentication\Authentication.Applicaiton\obj\Debug\net6.0\Authentication.Applicaiton.pdb
+D:\st-internship\Authentication\Authentication.Applicaiton\obj\Debug\net6.0\ref\Authentication.Applicaiton.dll
+D:\st-internship\Authentication\Authentication.Applicaiton\bin\Debug\net6.0\Authentication.Applicaiton.runtimeconfig.json
+D:\st-internship\Authentication\Authentication.Applicaiton\obj\Debug\net6.0\Authentication.Applicaiton.genruntimeconfig.cache

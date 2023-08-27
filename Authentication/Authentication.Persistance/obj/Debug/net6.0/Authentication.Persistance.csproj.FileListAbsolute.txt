@@ -1,0 +1,12 @@
+D:\st-internship\Authentication\Authentication.Persistance\bin\Debug\net6.0\Authentication.Persistance.deps.json
+D:\st-internship\Authentication\Authentication.Persistance\bin\Debug\net6.0\Authentication.Persistance.dll
+D:\st-internship\Authentication\Authentication.Persistance\bin\Debug\net6.0\Authentication.Persistance.pdb
+D:\st-internship\Authentication\Authentication.Persistance\obj\Debug\net6.0\Authentication.Persistance.csproj.AssemblyReference.cache
+D:\st-internship\Authentication\Authentication.Persistance\obj\Debug\net6.0\Authentication.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+D:\st-internship\Authentication\Authentication.Persistance\obj\Debug\net6.0\Authentication.Persistance.AssemblyInfoInputs.cache
+D:\st-internship\Authentication\Authentication.Persistance\obj\Debug\net6.0\Authentication.Persistance.AssemblyInfo.cs
+D:\st-internship\Authentication\Authentication.Persistance\obj\Debug\net6.0\Authentication.Persistance.csproj.CoreCompileInputs.cache
+D:\st-internship\Authentication\Authentication.Persistance\obj\Debug\net6.0\Authentication.Persistance.dll
+D:\st-internship\Authentication\Authentication.Persistance\obj\Debug\net6.0\refint\Authentication.Persistance.dll
+D:\st-internship\Authentication\Authentication.Persistance\obj\Debug\net6.0\Authentication.Persistance.pdb
+D:\st-internship\Authentication\Authentication.Persistance\obj\Debug\net6.0\ref\Authentication.Persistance.dll

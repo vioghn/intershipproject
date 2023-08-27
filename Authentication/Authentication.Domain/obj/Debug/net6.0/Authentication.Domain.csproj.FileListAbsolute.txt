@@ -1,0 +1,14 @@
+D:\st-internship\Authentication\Authentication.Domain\bin\Debug\net6.0\Authentication.Domain.deps.json
+D:\st-internship\Authentication\Authentication.Domain\bin\Debug\net6.0\Authentication.Domain.dll
+D:\st-internship\Authentication\Authentication.Domain\bin\Debug\net6.0\Authentication.Domain.pdb
+D:\st-internship\Authentication\Authentication.Domain\obj\Debug\net6.0\Authentication.Domain.csproj.AssemblyReference.cache
+D:\st-internship\Authentication\Authentication.Domain\obj\Debug\net6.0\Authentication.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\st-internship\Authentication\Authentication.Domain\obj\Debug\net6.0\Authentication.Domain.AssemblyInfoInputs.cache
+D:\st-internship\Authentication\Authentication.Domain\obj\Debug\net6.0\Authentication.Domain.AssemblyInfo.cs
+D:\st-internship\Authentication\Authentication.Domain\obj\Debug\net6.0\Authentication.Domain.csproj.CoreCompileInputs.cache
+D:\st-internship\Authentication\Authentication.Domain\obj\Debug\net6.0\Authentication.Domain.dll
+D:\st-internship\Authentication\Authentication.Domain\obj\Debug\net6.0\refint\Authentication.Domain.dll
+D:\st-internship\Authentication\Authentication.Domain\obj\Debug\net6.0\Authentication.Domain.pdb
+D:\st-internship\Authentication\Authentication.Domain\obj\Debug\net6.0\ref\Authentication.Domain.dll
+D:\st-internship\Authentication\Authentication.Domain\bin\Debug\net6.0\Authentication.Domain.runtimeconfig.json
+D:\st-internship\Authentication\Authentication.Domain\obj\Debug\net6.0\Authentication.Domain.genruntimeconfig.cache
